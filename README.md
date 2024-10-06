@@ -1,71 +1,19 @@
-# Critical Bounties & Grants<!-- omit in toc -->
+# Stacks Foundation Legacy Grants Program (Archived)
 
->PAGE UPDATED MAY 2023
----
+This repository is maintained for archive purposes only. It contains historical grant applications and discussions from our previous open grants process.
 
-<p align="center">
-  <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/header-new.png" style="width:1300px";>
-</p>
+## Important Note
 
----
+The Stacks Foundation no longer accepts open grant applications on a rolling basis. However, it's worth noting that the previous incarnation of the grants program was incredibly vibrant and experimental in nature, fostering significant innovation within the Stacks ecosystem.
 
-</br>
+As our ecosystem matured, we recognized that the grants program would be better served by splitting into two distinct programs:
 
-## Introduction
+1. [Critical Bounties Program](https://github.com/stacksfoundation/critical-bounties): Led by the Stacks Foundation, this program allows for targeted, high-impact infrastructure and tooling development via an RFP-style process.
 
-The Stacks Open Internet Foundation (also known as the Stacks Foundation) is committed to promoting a user-owned internet by supporting developers, designers, and founders through our RFP-style grant program called Critical Bounties. Working closely with core contributors to the Bitcoin L2, program leads at the Stacks Foundation identify needs that can be best addressed by the broader community. These needs are then scoped into RFPs, which we call Critical Bounties. Whether tightly or loosely-scoped, Critical Bounties prioritize strong technical projects that immediately add widespread value to the Stacks ecosystem and help make Bitcoin a more active asset. We encourage passionate individuals interested in advancing the mission of activating all L1 Bitcoin-based assets on the L2 Stacks layer to submit their project proposals.
+2. [DeGrants Program](https://github.com/stacksgov/decentralized-grants): A community-led grants program where funding priorities are completely determined by the community and DeGrants Stewards.
 
-</br>
+This evolution allows us to balance focused development of critical infrastructure with continued support for diverse, community-driven innovations.
 
-## How To Apply
+Feel free to browse the [Issues](../../issues) to see past grant applications and discussions, which showcase the breadth and depth of ideas that have contributed to the Stacks ecosystem.
 
-1. Critical Bounties are typically posted once per quarter and applications remain open for about a month.
-2. Active Critical Bounties can be found on the Foundation website [here](https://grants.stacks.org) or on the Grants Repo [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/issues).
-3. Once you’ve identified a Critical Bounty you would like to apply for,  follow the link within the GitHub Issue and fill out the linked form.
-4. After applications have closed and our review is complete, Critical Bounty recipients will be notified via the comment section below the GitHub Issue.
-
-
-</br>
-
-## Current Grant Priorities
-
->Current priorities for the Stacks Foundation Critical Bounties Program are:
-
-| PRIORITY            | DESCRIPTION                                                        
-| :----------------------------: | :---------------------------------- 
-| 1. | Technologies that aid in the development / execution of sBTC.
-| 2. | Technologies that activate L1 Bitcoin-based assets on the L2 Stacks layer.
-| 3. | Technologies that aid in the development of Subnets for Stacks and the Nakamoto Release.
-
-
-</br>
-
-## Additional Resources
-- Recent blog post about Critical Bounties [here](https://stacks.org/stacks-grants-update-2023)
-- Learn more about awarded Critical Bounties [here](https://github.com/stacksgov/Stacks-Grant-Launchpad/discussions/categories/critical-bounties)
-
-</br>
-
-## Stacks Community Channels
-
-| <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/web.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/discord.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/twitter.png?s=50" width="50"> | <img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/blog.png?s=50" width="50"> |
-| :------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
-|              [Stacks.co](https://stacks.co)              |           [Discord](https://discord.gg/5usXsXSUAK)           |            [Twitter](https://twitter.com/Stacks)             |              [Blog](https://stacks.org/blog)              |
-
-<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-governance.png?s=50" width="250">
-
-- [Stacks Governance Resources](https://github.com/stacksgov/resources#stacks-governance---resources)
-- [Stacks Improvement Proposals](https://github.com/stacksgov/sips)
-- [Stacks Docs](https://docs.stacks.co/docs/intro)
-
-<img src="https://github.com/stacksgov/Stacks-Grant-Launchpad/raw/master/docs/assets/images/stacks-foundation.png?s=50" width="250">
-  
-  - [Stacks.org](https://stacks.org/)
-  - [Stacks Foundation Blog](https://stacks.org/blog)
-  - [Stacks Foundation Twitter](https://twitter.com/StacksOrg)
-
-</br>
-
-### Continue to:
----
-[Terms and Conditions](Terms-and-Conditions)
+For current grant, bounty, and other funding opportunities, please visit: https://stacks.org/grants
